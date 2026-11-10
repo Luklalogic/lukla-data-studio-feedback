@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Documentation
+    url: https://datastudio.luklalogic.ai/docs/
+    about: How every feature works, with screenshots.
+  - name: Email
+    url: mailto:support@luklalogic.ai
+    about: For anything you'd rather not post publicly.

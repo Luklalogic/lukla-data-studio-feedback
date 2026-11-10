@@ -1,0 +1,11 @@
+name: Request a feature
+description: Something you'd like Lukla Data Studio to do. (Tip: 👍 an existing request instead of filing a duplicate.)
+labels: [enhancement]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What would you like?
+      description: What are you trying to do, and how would this help? An example of how it could work is welcome.
+    validations:
+      required: true
